@@ -1,0 +1,13 @@
+{
+  "node": "VBL",
+  "name": "VARSITY BLUES",
+  "moniker": "⟦VARSITY BLUES:VBL:acfb43⟧",
+  "carbon": "vbl.carbon.tiff",
+  "silicon": "vbl.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "They numbed the knee and sent the boy back in for the twenty-third banner. The bravest play in the movie was a kid refusing the life — and he aimed it at his father, not the coach.",
+  "seal_sha256": "f51cd1cc6933962ca02eb219c48cd2e5591c27324b59bbe486a875dd7c85a75a",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

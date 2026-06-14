@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "mox",
+    "name": "Jonathan 'Mox' Moxon",
+    "epithet": "the reluctant quarterback",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "James Van Der Beek",
+    "moniker": "⟦Jonathan 'Mox' Moxon:VBL:2f5844⟧"
+  },
+  {
+    "slug": "coach-kilmer",
+    "name": "Coach Bud Kilmer",
+    "epithet": "the win-at-all-costs tyrant",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Jon Voight",
+    "moniker": "⟦Coach Bud Kilmer:VBL:248043⟧"
+  },
+  {
+    "slug": "lance-harbor",
+    "name": "Lance Harbor",
+    "epithet": "the fallen golden boy",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Paul Walker",
+    "moniker": "⟦Lance Harbor:VBL:a79b74⟧"
+  },
+  {
+    "slug": "billy-bob",
+    "name": "Billy Bob",
+    "epithet": "the lineman sent back in",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Ron Lester",
+    "moniker": "⟦Billy Bob:VBL:202198⟧"
+  },
+  {
+    "slug": "tweeder",
+    "name": "Charlie Tweeder",
+    "epithet": "the party animal",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Scott Caan",
+    "moniker": "⟦Charlie Tweeder:VBL:cc7cd0⟧"
+  },
+  {
+    "slug": "julie-harbor",
+    "name": "Julie Harbor",
+    "epithet": "the grounded love interest",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Amy Smart",
+    "moniker": "⟦Julie Harbor:VBL:4286eb⟧"
+  },
+  {
+    "slug": "darcy-sears",
+    "name": "Darcy Sears",
+    "epithet": "the ticket out",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Ali Larter",
+    "moniker": "⟦Darcy Sears:VBL:d3a122⟧"
+  },
+  {
+    "slug": "wendell-brown",
+    "name": "Wendell Brown",
+    "epithet": "the medicated running back",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Eliel Swinton",
+    "moniker": "⟦Wendell Brown:VBL:a93452⟧"
+  },
+  {
+    "slug": "sam-moxon",
+    "name": "Sam Moxon",
+    "epithet": "the father's dream",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Thomas F. Duffy",
+    "moniker": "⟦Sam Moxon:VBL:ddcc92⟧"
+  },
+  {
+    "slug": "the-cortisone-shot",
+    "name": "The Cortisone Shot",
+    "epithet": "the needle · the cost made literal",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cortisone Shot:VBL:fed969⟧"
+  },
+  {
+    "slug": "i-dont-want-your-life",
+    "name": "'I Don't Want Your Life'",
+    "epithet": "the line · aimed at the father",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦'I Don't Want Your Life':VBL:96a256⟧"
+  },
+  {
+    "slug": "west-canaan",
+    "name": "West Canaan, Texas",
+    "epithet": "the town that worships Friday",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦West Canaan, Texas:VBL:4ee145⟧"
+  },
+  {
+    "slug": "the-halftime-rebellion",
+    "name": "The Halftime Rebellion",
+    "epithet": "the mutiny · the catharsis",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Halftime Rebellion:VBL:ac9434⟧"
+  },
+  {
+    "slug": "mox-and-vonnegut",
+    "name": "Mox & Vonnegut",
+    "epithet": "the way out · brains over banners",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Mox & Vonnegut:VBL:0f2f50⟧"
+  },
+  {
+    "slug": "the-whipped-cream",
+    "name": "The Whipped-Cream Scene",
+    "epithet": "the poster · the era's gaze",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Whipped-Cream Scene:VBL:3d9612⟧"
+  },
+  {
+    "slug": "kilmers-legend",
+    "name": "Kilmer's Legend",
+    "epithet": "22 districts · the alibi",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Kilmer's Legend:VBL:e94741⟧"
+  },
+  {
+    "slug": "the-concussion",
+    "name": "The Concussion",
+    "epithet": "Billy Bob's head · the prophecy",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Concussion:VBL:6324d0⟧"
+  }
+]
