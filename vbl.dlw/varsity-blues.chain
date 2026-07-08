@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 684
+slug  : varsity-blues
+seal  : f51cd1cc6933962ca02eb219c48cd2e5591c27324b59bbe486a875dd7c85a75a
+prev  : 893f715bf306807e9d7c8465787cc56588df3c5b07588c894d84104eb4ab3a72
+link  : 18fffea2f3833094279f0c14795f57c906912ffa0648229b091be45dc457c893
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.

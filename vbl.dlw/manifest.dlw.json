@@ -9,5 +9,12 @@
   "seal": "They numbed the knee and sent the boy back in for the twenty-third banner. The bravest play in the movie was a kid refusing the life — and he aimed it at his father, not the coach.",
   "seal_sha256": "f51cd1cc6933962ca02eb219c48cd2e5591c27324b59bbe486a875dd7c85a75a",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 684,
+    "prev": "893f715bf306807e9d7c8465787cc56588df3c5b07588c894d84104eb4ab3a72",
+    "link": "18fffea2f3833094279f0c14795f57c906912ffa0648229b091be45dc457c893",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
